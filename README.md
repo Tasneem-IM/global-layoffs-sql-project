@@ -1,6 +1,6 @@
 # layoffs-sql-data-cleaning-eda
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue) ![Status](https://img.shields.io/badge/status-complete-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue) ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 SQL project cleaning and analyzing a real-world dataset of global tech layoffs — includes duplicate removal, data standardization, null handling, and exploratory analysis using window functions and CTEs.
 
